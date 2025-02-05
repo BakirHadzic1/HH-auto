@@ -322,7 +322,7 @@ main {
 
 .form-container form {
     display: flex;
-    flex-direction: column;
+    flex-direction: column  ;
 }
 
 .form-group {
